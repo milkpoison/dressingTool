@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dressTool/static/css/main.96f4fb5b.css",
-    "main.js": "/dressTool/static/js/main.7774dd16.js",
-    "static/js/488.c8dabeae.chunk.js": "/dressTool/static/js/488.c8dabeae.chunk.js",
-    "index.html": "/dressTool/index.html",
-    "main.96f4fb5b.css.map": "/dressTool/static/css/main.96f4fb5b.css.map",
-    "main.7774dd16.js.map": "/dressTool/static/js/main.7774dd16.js.map",
-    "488.c8dabeae.chunk.js.map": "/dressTool/static/js/488.c8dabeae.chunk.js.map"
+    "main.css": "/dressingTool/static/css/main.96f4fb5b.css",
+    "main.js": "/dressingTool/static/js/main.ec509d27.js",
+    "static/js/488.c8dabeae.chunk.js": "/dressingTool/static/js/488.c8dabeae.chunk.js",
+    "index.html": "/dressingTool/index.html",
+    "main.96f4fb5b.css.map": "/dressingTool/static/css/main.96f4fb5b.css.map",
+    "main.ec509d27.js.map": "/dressingTool/static/js/main.ec509d27.js.map",
+    "488.c8dabeae.chunk.js.map": "/dressingTool/static/js/488.c8dabeae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96f4fb5b.css",
-    "static/js/main.7774dd16.js"
+    "static/js/main.ec509d27.js"
   ]
 }
